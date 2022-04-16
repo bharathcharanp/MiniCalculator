@@ -1,0 +1,8 @@
+---
+- name: Create a Docker image and deploy it
+  hosts: all
+  tasks:
+    - name: Pull minicalculator image
+      docker_image:
+        name: bharathcharanp/minicalculator
+        source: pull

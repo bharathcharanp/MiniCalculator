@@ -1,0 +1,10 @@
+16/Apr/2022:17:16:35 204 [MiniCalculator_Main.java] [INFO] MiniCalculator.MiniCalculator_Main [FACTORIAL] - 3
+16/Apr/2022:17:16:35 211 [MiniCalculator_Main.java] [INFO] MiniCalculator.MiniCalculator_Main [RESULT - FACTORIAL] - 6.0
+16/Apr/2022:17:16:35 213 [MiniCalculator_Main.java] [INFO] MiniCalculator.MiniCalculator_Main [ROOT] - 25.0
+16/Apr/2022:17:16:35 214 [MiniCalculator_Main.java] [INFO] MiniCalculator.MiniCalculator_Main [RESULT - ROOT] - 5.0
+16/Apr/2022:17:16:35 215 [MiniCalculator_Main.java] [INFO] MiniCalculator.MiniCalculator_Main [LOG] - 150.0
+16/Apr/2022:17:16:35 216 [MiniCalculator_Main.java] [INFO] MiniCalculator.MiniCalculator_Main [RESULT - LOG] - 5.0106352940962555
+16/Apr/2022:17:16:35 217 [MiniCalculator_Main.java] [INFO] MiniCalculator.MiniCalculator_Main [POWER] - 5.0, 4.0
+16/Apr/2022:17:16:35 218 [MiniCalculator_Main.java] [INFO] MiniCalculator.MiniCalculator_Main [RESULT - POWER] - 625.0
+16/Apr/2022:17:17:44 793 [MiniCalculator_Main.java] [INFO] MiniCalculator.MiniCalculator_Main [FACTORIAL] - 4
+16/Apr/2022:17:17:44 809 [MiniCalculator_Main.java] [INFO] MiniCalculator.MiniCalculator_Main [RESULT - FACTORIAL] - 24.0
